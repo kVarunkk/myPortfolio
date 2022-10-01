@@ -203,6 +203,11 @@ footer {
 }
 
 @media (max-width: 768px) {
+
+  .main {
+    background-image: linear-gradient(rgb(13, 14, 33), rgb(13, 14, 33)), radial-gradient(circle at left top, rgb(1, 110, 218), rgb(217, 0, 192));
+  }
+
   .wrapper {
     width: 100%;
   }
@@ -221,7 +226,12 @@ footer {
 }
 
 @media (max-width: 1200px) {
+  .main {
+    background-image: linear-gradient(rgb(13, 14, 33), rgb(13, 14, 33)), radial-gradient(circle at left top, rgb(1, 110, 218), rgb(217, 0, 192));
+  }
+
   .wrapper {
     width: 100%;
   }
+
 }

@@ -216,6 +216,10 @@ footer {
     grid-template-columns: repeat(1, 1fr);
   }
 
+  .card img {
+    width: 100%;
+  }
+
   .buttons-div a {
     margin-bottom: 10px;
   }

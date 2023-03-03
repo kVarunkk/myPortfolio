@@ -39,7 +39,7 @@ main {
 }
 
 .about {
-  font-size: 2.5rem;
+  font-size: 2rem;
   font-weight: bolder;
   font-family: 'DM Sans', sans-serif;
   padding: 30px;
@@ -121,10 +121,6 @@ main {
   border-radius: 20px;
   height: auto;
   transition: all 0.4s ease;
-}
-
-.card img:hover {
-  transform: scale(1.5, 1.5);
 }
 
 .buttons-div {
